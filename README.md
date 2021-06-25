@@ -13,6 +13,8 @@ Our framework’s primary purpose is to identify falls without the need for prev
 
 The first step of our framework is to capture a frameset of a video using an RGB camera. Then the entire frameset is used as input for the ST-GCN model with OpenPose. We normalize the data of the middle layer of the ST-GCN model. This step completes our framework’s pre-processing phase. In the next phase, our framework tries to encode/decode the resulting data. So, we calculate the Mean-Squared Error (MSE), and the value obtained is compared with a threshold. If the calculated value is greater than the pre-defined threshold, an anomaly is identified.
 
+See all details [here](09439497.pdf)
+
 ## Citing:
 
 ```
