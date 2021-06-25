@@ -7,4 +7,16 @@ Automatic systems to monitor people and subsequently improve people’s lives ha
 
 ## Citing
 
-@ARTICLE{9439497,  author={Galvão, Yves M. and Portela, Letícia and Ferreira, Janderson and Barros, Pablo and De Araújo Fagundes, Oberta Andrade and Fernandes, Bruno J. T.},  journal={IEEE Access},   title={A Framework for Anomaly Identification Applied on Fall Detection},   year={2021},  volume={9},  number={},  pages={77264-77274},  doi={10.1109/ACCESS.2021.3083064}}
+```
+@ARTICLE{
+  9439497,  
+  author={Galvão, Yves M. and Portela, Letícia and Ferreira, Janderson and Barros, Pablo and De Araújo Fagundes, Oberta Andrade and Fernandes, Bruno J. T.},
+  journal={IEEE Access},
+  title={A Framework for Anomaly Identification Applied on Fall Detection},
+  year={2021},
+  volume={9},
+  number={},
+  pages={77264-77274},
+  doi={10.1109/ACCESS.2021.3083064}
+}
+```
