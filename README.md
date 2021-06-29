@@ -18,7 +18,7 @@ See all details [here](09439497.pdf)
 
 All requirements are listed in the requirements.txt file. For the pre-process new datasets, you need to install the OpenPose and configure the directory in the processor/demo_fall_det.py file. as the following:
 
-![Image of openPose path](galva1-3083064-large.gif)
+![Image of openPose path](screen.jpg)
 
 
 
