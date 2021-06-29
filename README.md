@@ -14,6 +14,12 @@ The first step of our framework is to capture a frameset of a video using an RGB
 
 See all details [here](09439497.pdf)
 
+## Pre-requisites
+
+All requirements are listed in the requirements.txt file. For the pre-process new datasets, you need to install the OpenPose and configure the directory in the processor/demo_fall_det.py file. as the following:
+
+
+
 ## Citing:
 
 ```
