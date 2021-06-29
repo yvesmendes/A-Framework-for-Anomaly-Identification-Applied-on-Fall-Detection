@@ -20,7 +20,7 @@ All requirements are listed in the requirements.txt file. For the pre-process ne
 
 ![Image of openPose path](screen.png)
 
-
+You need to install too the ST-GCN model, we have used the following version of the ST-GCN model [here](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md).
 
 ## Citing:
 
